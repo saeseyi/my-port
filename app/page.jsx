@@ -13,8 +13,7 @@ const Home = () => {
           {/* text */}
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">UI/UX Designer</span>
-            <h1 className="h1 mb-1">Hello I&apos;m <br /> <span className="text-accent">Oluwaseyi Joseph</span>
-            </h1>
+            <h1 className="h1 mb-1">Hello I&apos;m <br /> <span className="text-accent">Oluwaseyi Joseph</span></h1>
             <p className="max-w-[500px] mb-9 text-white/88">
             Experienced UI/UX designer with over 3 years of expertise in creating engaging digital experiences. 
             Proficient in UI design tools and methodologies, adept at conducting user research and translating 
